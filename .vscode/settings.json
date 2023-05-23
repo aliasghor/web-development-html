@@ -8,10 +8,10 @@
     "editor.tokenColorCustomizations": {
         "comments":"#ffd900",
         "[2077]": {
-            "keywords": "#fbff00",
-            "variables": "#ffee00",
+            "keywords": "#cc00ff",
+            "variables": "#fffb00",
             "comments": "#00ffff",
-            "functions": "#eeff00"
+            "functions": "#fbff00"
         },
         "[Shades of Purple (Super Dark)]": {
             "keywords": "#ffd900",
